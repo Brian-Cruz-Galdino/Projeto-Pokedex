@@ -81,4 +81,4 @@ O arquivo `script.js` é responsável por:
 6.  **Execução Inicial:** Chama `renderPokemon(searchPokemon)` para carregar o primeiro Pokémon quando a página é aberta.
 
 
-##Feito por Brian Cruz e Lucas Ryu
+## Feito por Brian Cruz e Lucas Ryu
