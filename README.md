@@ -79,3 +79,6 @@ O arquivo `script.js` é responsável por:
     * Para o clique no botão "Prev": decrementa `searchPokemon` (se maior que 1) e chama `renderPokemon`.
     * Para o clique no botão "Next": incrementa `searchPokemon` e chama `renderPokemon`.
 6.  **Execução Inicial:** Chama `renderPokemon(searchPokemon)` para carregar o primeiro Pokémon quando a página é aberta.
+
+
+Feito por Brian Cruz e Lucas Ryu
