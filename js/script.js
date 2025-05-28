@@ -49,7 +49,7 @@ const renderPokemon = async (pokemon) => {
 
 // EVENT LISTENER: Captura a submissão do formulário.
 form.addEventListener('submit', (event) => {
-  event.preventDefault(); // Previne o recarregamento da página.
+  event.preventDefault(); // Previne o recarregamento da pág.
   // Chama renderPokemon com o valor do input em minúsculas (padronização para a API).
   renderPokemon(input.value.toLowerCase());
 });
