@@ -10,8 +10,6 @@ Uma aplicação web simples e interativa que simula uma Pokédex, permitindo aos
 * [🚀 Como Executar](#-como-executar)
 * [📂 Estrutura de Arquivos](#-estrutura-de-arquivos)
 * [🧠 Lógica Principal](#-lógica-principal)
-* [📸 Screenshots](#-screenshots)
-* [🔮 Possíveis Melhorias Futuras](#-possíveis-melhorias-futuras)
 
 ## Sobre o Projeto
 
